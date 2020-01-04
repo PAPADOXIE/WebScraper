@@ -4,3 +4,4 @@ import pandas as pd
 
 driver = wd.Chrome("C:\Program Files (x86)\Google\Chrome\Application\Chrome.exe")
 websites[9] = []
+websites[0] = 'https://ctftime.org/'
